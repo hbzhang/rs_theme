@@ -1,0 +1,15 @@
+name = Recsports Theme
+description = The base Rec Sports Theme
+version = 1.0
+core = 7.x
+engine = phptemplate
+
+regions[menu] = Tab Menu
+regions[search_box] = Search Box
+regions[content] = Content
+regions[left] = Left Sidebar
+regions[left_bottom] = Bottom Left Sidebar
+regions[right] = Right Sidebar
+regions[footer] = Footer
+
+stylesheets[all][] = style.css

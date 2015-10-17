@@ -1,0 +1,2 @@
+#Rec Sports Theme
+This is a theme, based on the Virginia Tech template, that was designed for use in Drupal 7 by Joe Pontani.  It modified the original template some to allow for extra features that we wanted to incorporate.  It is free to use for anyone at Virginia Tech.
